@@ -4,9 +4,7 @@ hello
 hello world
 hello world3
 hello world4
-hello world4
-hello world4
-hello world4
+hello world
 hello world4
 hello world4
 hello world4
